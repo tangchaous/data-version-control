@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = caasd
+['remote "caasd"']
+    url = ssh://htang@comp64-7:22/home/htang/data/dvc_test
